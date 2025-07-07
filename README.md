@@ -1,6 +1,7 @@
 # CREDIT CARD DASHBOARD
 
-**Tool:** Google Looker Studio 
+**Tool:** Google Looker Studio
+<br>
 **Tags:** Data Visualization, KPI Dashboard, Insight Dashboard
 
 Interactive dashboard revealing Customer Demographic, Customer Revenue Profile, and Customer Risk Profile across 10,000+ U.S. credit card users.
